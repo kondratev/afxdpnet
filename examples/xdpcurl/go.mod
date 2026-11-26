@@ -16,7 +16,4 @@ require (
 	golang.org/x/sys v0.28.0 // indirect
 )
 
-replace (
-	github.com/kondratev/afxdpnet => ../../
-	github.com/soypat/lneto => github.com/kondratev/lneto v0.0.0-20261125233610-f9d07a77c6c5
-)
+replace github.com/soypat/lneto => github.com/kondratev/lneto v0.0.0-20261125233610-f9d07a77c6c5
