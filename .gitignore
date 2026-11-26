@@ -1,0 +1,10 @@
+.openidea/
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+obj/
+build/
+dist/
