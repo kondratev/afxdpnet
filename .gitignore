@@ -8,7 +8,13 @@ bin/
 obj/
 build/
 dist/
-examples/*/
 binaries/*.elf
 binaries/*.so
 binaries/*.a
+examples/*/[!g]*
+examples/*/*.o
+examples/*/*.elf
+examples/*/*.so
+examples/*/*.a
+examples/*/*.dylib
+examples/*/*.exe
