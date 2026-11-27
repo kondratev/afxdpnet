@@ -8,3 +8,7 @@ bin/
 obj/
 build/
 dist/
+examples/*/
+binaries/*.elf
+binaries/*.so
+binaries/*.a

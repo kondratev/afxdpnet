@@ -1,6 +1,6 @@
 # AF_XDP Network Stack with lneto
 
-EX = xdpserver_lib xdpcurl_lib httpserver_fasthttp httpserver_httphi udp_server udp_client
+EX = xdpserver_lib xdpcurl_lib httpserver_fasthttp httpserver_httphi udp_server udp_client xdpserver xdpcurl http_benchmark
 
 all: build
 

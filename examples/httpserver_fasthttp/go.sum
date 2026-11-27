@@ -18,6 +18,8 @@ github.com/klauspost/compress v1.20.4 h1:dD0v/bvxtjCBqQu6sx1TNWkalEY5lNTIe+HY9w8
 github.com/klauspost/compress v1.20.4/go.mod h1:LUdAzn7YLVvxLpc7y3V1m40wESHTgc1422pwwBSKYuI=
 github.com/klauspost/compress v1.20.5 h1:rJj5VjH4xQxbnLphg6eqUcDxRFCw1jpMdDY9qXlrwSs=
 github.com/klauspost/compress v1.20.5/go.mod h1:LUdAzn7YLVvxLpc7y3V1m40wESHTgc1422pwwBSKYuI=
+github.com/kondratev/afxdpnet v0.0.0-20261126005519-aaa8723667c7 h1:KlRN2ky+IBFa4BWfbGk+UIyYJECCGNRRYUpaScN7WgA=
+github.com/kondratev/afxdpnet v0.0.0-20261126005519-aaa8723667c7/go.mod h1:2n1NzjP9uuMVW0wQSFCEGip7Ph8jdsYQLYNpKi8i+qM=
 github.com/kondratev/lneto v0.0.0-20261125233610-f9d07a77c6c5 h1:CuE1wjaU0WiGykgzoAMfQZ1rzNipoYS7Zsfp9EAMk5o=
 github.com/kondratev/lneto v0.0.0-20261125233610-f9d07a77c6c5/go.mod h1:Be5PjwoYukvHFiUXxpYi8+ppH2F/gw/vjGBvFdv+Ti8=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
